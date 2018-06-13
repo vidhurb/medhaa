@@ -54,7 +54,7 @@
             "showText": true,
             "showButtons": true,
             "showArrow": true,
-            "contentAlign": "center",
+            "contentAlign": "left",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/action-adult-athlete-259984-2000x1334.jpg",
             "parallax": true,
@@ -72,7 +72,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "MEDHAA ENTERPRISES",
-          "text": "Manufacturers of high quality contruction machinery and equipments. We are relied upon by professionals in the industry to provide the most complete range construction equipments ranging from Tower cranes to GI gratings. &nbsp;Medhaa Enterprises is known to offer personalized client service and high quality product solutions along with novel &amp; reliable logistics and delivery.",
+          "text": "Manufacturers of high quality contruction machinery and equipments. We are relied upon by best in the industry to provide the most complete range of construction equipments ranging from tower cranes to GI gratings. Medhaa Enterprises is known to offer personalized client service and high quality product solutions along with novel &amp; reliable logistics and delivery.",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
           "_tags": [
             "Theme"
@@ -565,7 +565,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 Medhaa Enterprises.",
+          "text": "Copyright (c) 2018 Medhaa Enterprises.<br>Created by Vidhur.",
           "_tags": [
             "Theme"
           ],
