@@ -32,7 +32,7 @@
     "robotsSwitcher": "",
     "siteUrl": "http://medhaa.co.in",
     "sitemapSwitcherAuto": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/m-128x128-1.png",
     "noImageResize": "",
     "google-analytics": "",
     "sitemapSwitcher": "on"
@@ -163,13 +163,17 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/m-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "#top",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
               "link": "https://mobirise.com",
               "size": 0
             }
