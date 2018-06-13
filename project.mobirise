@@ -213,10 +213,10 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "VIDEO SLIDE",
+                "title": "PRODUCTS",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "text": "Vivamus lobortis condimentum quam, id imperdiet diam elementum quis. ",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -400,7 +400,7 @@
             {
               "authorName": "Lorem",
               "authorBio": "User",
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "text": "<p>Vestibulum a lorem ac odio tincidunt pellentesque id ac tellus. Cras eget mi in erat fringilla viverra. Ut imperdiet tortor massa, in ornare ligula porttitor non.</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/mbr-160x107.jpg",
@@ -415,9 +415,9 @@
               }
             },
             {
-              "authorName": "Suffian A.",
+              "authorName": "Aliquam",
               "authorBio": "User",
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>",
+              "text": "<p>Praesent aliquam, orci vel auctor pulvinar, felis augue porta velit, in condimentum ligula nisi in neque. Pellentesque scelerisque eros semper, euismod odio non, sollicitudin augue. Morbi tincidunt consectetur ligula in lacinia.&nbsp;</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/mbr-1-160x107.jpg",
@@ -432,9 +432,9 @@
               }
             },
             {
-              "authorName": "Jhollman C.",
+              "authorName": "Praesent&nbsp;",
               "authorBio": "User",
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "text": "<p>Vivamus lobortis condimentum quam, id imperdiet diam elementum quis. Praesent vitae porttitor nisi. Nam mollis velit non ligula blandit, et molestie lectus pretium. Etiam nisl odio, dapibus ac consequat non, mollis luctus enim.</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/mbr-160x110.jpg",
