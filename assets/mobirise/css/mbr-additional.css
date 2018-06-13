@@ -420,7 +420,7 @@ h6,
 }
 #header1-0 .mbr-section-title {
   text-align: left;
-  font-size: 15px;
+  font-size: 60px;
   font-family: 'Montserrat', sans-serif;
 }
 #menu-2 .hide-buttons .nav-btn {
@@ -487,10 +487,6 @@ h6,
 }
 #slider-9 P {
   font-family: 'Titillium Web', sans-serif;
-}
-#header3-d .mbr-section-title,
-#header3-d .mbr-section-subtitle {
-  text-align: center;
 }
 #form1-i .form-control-label {
   color: #232323;
